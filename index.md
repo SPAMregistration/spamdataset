@@ -13,7 +13,7 @@ While non-rigid registration approaches often rely on visual information or pre-
 Due to the lack of a publicly available datasets with ground truth, we synthetically generated deforming pointclouds to benchmark our approach. These datasets are publicly available online [***HERE***](https://studentutsedu-my.sharepoint.com/:f:/g/personal/behnam_maleki_uts_edu_au/EoqNP7Y_0jVBlPHOV8KUqngBfU8tzsdmN0_NGaaKXDqbCA?e=ThUich). These models are exported as ".ply" format and the indicies in these deformable models are preserved so that they can be traced within different deformations. 
 ![myimage2](deforming_models.png)
 
-Demo
+### Video
 {% include youtubePlayer.html id=page.youtubeId %}
 
 
