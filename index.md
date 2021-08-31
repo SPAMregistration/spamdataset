@@ -10,7 +10,7 @@ While non-rigid registration approaches often rely on visual information or pre-
 ![myimage](git1.png)
 
 ### Datasets
-Due to the lack of a publicly available datasets with ground truth, we synthetically generated deforming pointclouds to benchmark our approach. These datasets are publicly available online [***HERE***](https://studentutsedu-my.sharepoint.com/:f:/g/personal/behnam_maleki_uts_edu_au/EqJdAmXs43dIsZsxkBQ_mLgBZ7irzUhFxuJD-Ua8ViQIyA?e=XK1wKa). These models are exported as ".ply" format and the indicies in these deformable models are preserved so that they can be traced within different deformations. Therefore, the points with similar indices are correspodning throughout the deformations.
+Due to the lack of a publicly available datasets with ground truth, we synthetically generated deforming pointclouds to benchmark our approach. These datasets are publicly available online [***HERE***](https://studentutsedu-my.sharepoint.com/:f:/g/personal/behnam_maleki_uts_edu_au/EqJdAmXs43dIsZsxkBQ_mLgBZ7irzUhFxuJD-Ua8ViQIyA?e=XK1wKa). These models are exported as ".ply" format and the indicies in these deformable models are preserved so that they can be traced within different deformations. Therefore, the points with similar indices are correspodning to each other throughout the deformations.
 ![myimage2](deforming_models.png)
 
 ### Video
