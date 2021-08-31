@@ -1,5 +1,5 @@
 ---
-youtubeId: https://www.youtube.com/watch?v=PNVLg-JgOyc
+youtubeId: PNVLg-JgOyc
 ---
 
 ## SPaM: Soft Patch Matching for Non-rigid Pointcloud Registration
